@@ -7,6 +7,3 @@ this is compare
 ## second heading
 ![Alt Text](https://cdn.britannica.com/18/237818-004-8A8FBCA9.jpg)
 ``` const test =>() {console.log('Hi')}
-- [ ] task one
-- [x] task two
-* [ ] task three
