@@ -1,2 +1,5 @@
 `git log`
-this is a compare branch
+come on
+this is compare
+`git branch`
+`git check out`
